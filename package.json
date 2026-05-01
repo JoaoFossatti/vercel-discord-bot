@@ -1,0 +1,13 @@
+{
+  "name": "vercel-discord-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vercel dev",
+    "register": "node scripts/register-commands.js"
+  },
+  "dependencies": {
+    "discord-interactions": "^3.4.0"
+  }
+}

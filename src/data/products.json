@@ -1,0 +1,104 @@
+[
+  {
+    "id": "vip_allthemodium",
+    "nome": "Vip AllTheModium",
+    "preco": 29.9,
+    "duracao": "30 dias",
+    "descricao": [
+      "+50 chunks protegidos",
+      "+6 chunks carregados",
+      "4 homes",
+      "/he ctable — mesa de craft portátil",
+      "/he echest — ender chest portátil",
+      "/fly — voo habilitado",
+      "/hat — use qualquer item como chapéu",
+      "/back — volte ao último local",
+      "TPA cooldown: 60s",
+      "RTP cooldown: 5min",
+      "Tag no Chat: [AllTheModium] — Preto"
+    ],
+    "qrImage": "/assets/pix-voidwalker.jpg"
+  },
+  {
+    "id": "vip_vibranium",
+    "nome": "Vip Vibranium",
+    "preco": 49.9,
+    "duracao": "60 dias",
+    "descricao": [
+      "+80 chunks protegidos",
+      "+10 chunks carregados",
+      "6 homes",
+      "/hat — use qualquer item como chapéu",
+      "/he ctable — mesa de craft portátil",
+      "/he smithtable — mesa de ferraria portátil",
+      "/he echest — ender chest portátil",
+      "/fly — voo habilitado",
+      "/back — volte ao último local",
+      "TPA cooldown: 30s",
+      "RTP cooldown: 3min",
+      "Tag no Chat: [Vibranium] — Azul"
+    ],
+    "qrImage": "/assets/pix-voidwalker.jpg"
+  },
+  {
+    "id": "vip_unobtainium",
+    "nome": "Vip Unobtainium",
+    "preco": 69.9,
+    "duracao": "90 dias",
+    "descricao": [
+      "+120 chunks protegidos",
+      "+15 chunks carregados",
+      "10 homes",
+      "Chunks carregados offline — seus chunks continuam carregados mesmo deslogado",
+      "/hat — use qualquer item como chapéu",
+      "/he ctable — mesa de craft portátil",
+      "/he echest — ender chest portátil",
+      "/he anvil — bigorna portátil",
+      "/he smithtable — mesa de ferraria portátil",
+      "/food — recupere a fome instantaneamente",
+      "/heal — recupere a vida instantaneamente",
+      "/fly — voo habilitado",
+      "/back — volte ao último local",
+      "TPA cooldown: 10s",
+      "RTP cooldown: 1min",
+      "Tag no Chat: [Unobtainium] — Roxo"
+    ],
+    "qrImage": "/assets/pix-voidwalker.jpg"
+  },
+  {
+    "id": "vip_apex",
+    "nome": "Vip Apex",
+    "preco": 159.9,
+    "duracao": "180 dias",
+    "descricao": [
+      "+250 chunks protegidos",
+      "+25 chunks carregados",
+      "20 homes",
+      "Chunks carregados offline — seus chunks continuam carregados mesmo deslogado",
+      "Direito a todos os kits do servidor",
+      "Sem cooldown para TPA, Back, Spawn e Warp",
+      "/fly — voo habilitado",
+      "/hat — use qualquer item como chapéu",
+      "/food — recupere a fome instantaneamente",
+      "/heal — recupere a vida instantaneamente",
+      "/he ctable — mesa de craft portátil",
+      "/he echest — ender chest portátil",
+      "/he anvil — bigorna portátil",
+      "/he smithtable — mesa de ferraria portátil",
+      "Tag no Chat: [Apex] — Preto Luxo"
+    ],
+    "qrImage": "/assets/pix-voidwalker.jpg"
+  },
+  {
+    "id": "doacoes",
+    "nome": "Doações",
+    "preco": 0,
+    "duracao": "livre",
+    "descricao": [
+      "1 real — Bloco a Bloco",
+      "5 reais — Guerreiro",
+      "10 reais — Diamante Real"
+    ],
+    "qrImage": "/assets/pix-voidwalker.jpg"
+  }
+]
